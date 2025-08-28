@@ -18,7 +18,7 @@ const Header = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.3 }}
         className='flex items-center gap-2 text-xl md:text=2xl mb-3'>
-        Hi! I'm Sivanandham <Image src={assets.hand_icon} alt='' className='w-6' />
+        Hi! I'm Deepak <Image src={assets.hand_icon} alt='' className='w-6' />
       </motion.h3>
       <motion.h1
         initial={{ y: -30, opacity: 0 }}

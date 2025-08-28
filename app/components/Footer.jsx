@@ -10,12 +10,12 @@ const Footer = ({isDarkMode}) => {
 
         <div className='w-max flex items-center gap-2 mx-auto'>
             <Image alt='' src={isDarkMode ? assets.mail_icon_dark : assets.mail_icon} className='w-6' />
-            sivanandhams006@gmail.com
+            ds23030002@gmail.com
         </div>
       </div>
 
       <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6'>
-        <p>© 2025 Sivanandham. All rights reserved.</p>
+        <p>© 2025 Deepak. All rights reserved.</p>
 
         <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
             <li><a href="https://github.com/Sivanandham-k">GitHub</a></li>
