@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Outfit;
+}
+@media screen and (max-width: 600px) {
+  .profile{
+    margin-top: 5dvh;
+  }
+  .hiddens{
+    display: none !important;
+  }
+}
+
+@media screen and (max-width:1020px) {
+  .hiddens{
+    display: none;
+  }
+}
+      
+
+.skill {
+  -webkit-animation: pulse 2s linear infinite alternate;
+  animation: pulse 2s linear infinite alternate;
+}
+
+.skill:nth-child(1) { animation-delay: 0.2s; }
+.skill:nth-child(2) { animation-delay: 0.4s; }
+.skill:nth-child(3) { animation-delay: 0.6s; }
+.skill:nth-child(4) { animation-delay: 0.8s; }
+.skill:nth-child(5) { animation-delay: 1s; }
+.skill:nth-child(6) { animation-delay: 1.2s; }
+.skill:nth-child(7) { animation-delay: 1.4s; }
+.skill:nth-child(8) { animation-delay: 1.6s; }
+.skill:nth-child(9) { animation-delay: 1.8s; }
+.skill:nth-child(10) { animation-delay: 2s; }
+.skill:nth-child(11) { animation-delay: 2.2s; }
+.skill:nth-child(12) { animation-delay: 2.4s; }
+
+@keyframes pulse {
+  from, 40% { opacity: 0; }
+  50% { opacity: 0.5; }
+  80%, to { opacity: 1; }
+}
+
+.hovers1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
