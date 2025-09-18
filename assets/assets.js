@@ -126,8 +126,8 @@ export const assets = {
 
 
 export const educationData = [
-    { icon: assets.pgdegree, title:'MSC - Physics', year: '2021 - 2023', description: 'Bharath Instute of Higher Education and Research, Tambaram, Selaiyur'},
-    { icon: assets.ugdegree, title:'BSC - Physics', year: '2017 - 2020', description: ' Meenakshi Ammal Arts & Science College, Uthiramerur' },
+    { icon: assets.degree, title:'MSC - Physics', year: '2021 - 2023', description: 'Bharath Instute of Higher Education and Research, Tambaram, Selaiyur'},
+    { icon: assets.degree, title:'BSC - Physics', year: '2017 - 2020', description: ' Meenakshi Ammal Arts & Science College, Uthiramerur' },
     { icon: assets.hsc, title:'HSC - Higher Secondary Certificate', year: '2015 - 2017', description: 'M.C.S.M Government Higher Secondary School, Padalam Post, Maduranthakam' },
     { icon: assets.sslc, title:'SSLC - Secondary School Leaving Certificate', year: '2014 - 2015', description: 'M.C.S.M Government Higher Secondary School, Padalam Post, Maduranthakam' },
 ]
