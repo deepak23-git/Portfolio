@@ -18,9 +18,9 @@ const Footer = ({isDarkMode}) => {
         <p>© 2025 Deepak. All rights reserved.</p>
 
         <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-            <li><a href="https://github.com/Sivanandham-k">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/sivanandham-k-795540293/">LinkedIn</a></li>
-            <li><a href="https://www.instagram.com/jairus_christ_276/">Instagram</a></li>
+            <li><a href="https://github.com/deepak23-git">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/deepak-s-a9332b381/">LinkedIn</a></li>
+            <li><a href="https://www.instagram.com/ds23030002/">Instagram</a></li>
         </ul>
       </div>
     </div>
