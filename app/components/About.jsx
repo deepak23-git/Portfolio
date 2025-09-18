@@ -80,17 +80,17 @@ const About = ({ isDarkMode }) => {
             <motion.li
               whileHover={{ scale: 1.1 }}
               className='flex items-center justify-center w-12 sm:w-14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500'>
-              <a href="https://www.linkedin.com/in/sivanandham-k-795540293/" target='_blank'><Image src={assets.linked_in} alt='' className='w-5 sm:w-7' /></a>
+              <a href="https://www.linkedin.com/in/deepak-s-a9332b381/" target='_blank'><Image src={assets.linked_in} alt='' className='w-5 sm:w-7' /></a>
             </motion.li>
             <motion.li
               whileHover={{ scale: 1.1 }}
               className='flex items-center justify-center w-12 sm:w-14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500'>
-              <a href="https://github.com/Sivanandham-k" target='_blank'><Image src={assets.github} alt='' className='w-5 sm:w-7' /></a>
+              <a href="https://github.com/deepak23-git" target='_blank'><Image src={assets.github} alt='' className='w-5 sm:w-7' /></a>
             </motion.li>
             <motion.li
               whileHover={{ scale: 1.1 }}
               className='flex items-center justify-center w-12 sm:w-14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500'>
-              <a href="https://www.instagram.com/jairus_christ_276/" target='_blank'><Image src={assets.instagram} alt='' className='w-5 sm:w-7' /></a>
+              <a href="https://www.instagram.com" target='_blank'><Image src={assets.instagram} alt='' className='w-5 sm:w-7' /></a>
             </motion.li>
           </motion.ul>
 
