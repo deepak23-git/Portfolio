@@ -126,14 +126,15 @@ export const assets = {
 
 
 export const educationData = [
-    { icon: assets.degree, title:'BCA - Computer Applications', year: '2021 - 2024', description: 'Government Arts and Science College, Perumbakkam, Chennai-131' },
-    { icon: assets.hsc, title:'HSC - Higher Secondary Certificate', year: '2019 - 2021', description: 'Government Boys Higher Secondary School, Chrompet, Chennai-44' },
-    { icon: assets.sslc, title:'SSLC - Secondary School Leaving Certificate', year: '2018 - 2019', description: 'Government Boys Higher Secondary School, Chrompet, Chennai-44' },
+    { icon: assets.pgdegree, title:'MSC - Physics', year: '2021 - 2023', description: 'Bharath Instute of Higher Education and Research, Tambaram, Selaiyur'},
+    { icon: assets.ugdegree, title:'BSC - Physics', year: '2017 - 2020', description: ' Meenakshi Ammal Arts & Science College, Uthiramerur' },
+    { icon: assets.hsc, title:'HSC - Higher Secondary Certificate', year: '2015 - 2017', description: 'M.C.S.M Government Higher Secondary School, Padalam Post, Maduranthakam' },
+    { icon: assets.sslc, title:'SSLC - Secondary School Leaving Certificate', year: '2014 - 2015', description: 'M.C.S.M Government Higher Secondary School, Padalam Post, Maduranthakam' },
 ]
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, JAVA' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BCA - Computer Application' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'MSC - Physics' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
