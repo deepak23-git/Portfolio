@@ -75,7 +75,7 @@ const About = ({ isDarkMode }) => {
             <motion.li
               whileHover={{ scale: 1.1 }}
               className='flex items-center justify-center w-12 sm:w-14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500'>
-              <a href="mailto:sivanandhams006@gmail.com" target='_blank'><Image src={assets.mail} alt='' className='w-5 sm:w-7' /></a>
+              <a href="mailto:ds23030002@gmail.com" target='_blank'><Image src={assets.mail} alt='' className='w-5 sm:w-7' /></a>
             </motion.li>
             <motion.li
               whileHover={{ scale: 1.1 }}
@@ -90,7 +90,7 @@ const About = ({ isDarkMode }) => {
             <motion.li
               whileHover={{ scale: 1.1 }}
               className='flex items-center justify-center w-12 sm:w-14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500'>
-              <a href="https://www.instagram.com" target='_blank'><Image src={assets.instagram} alt='' className='w-5 sm:w-7' /></a>
+              <a href="https://www.instagram.com/ds23030002/" target='_blank'><Image src={assets.instagram} alt='' className='w-5 sm:w-7' /></a>
             </motion.li>
           </motion.ul>
 
