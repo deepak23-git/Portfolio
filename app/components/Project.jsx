@@ -96,7 +96,7 @@ const Project = ({ isDarkMode }) => {
                         <span className="bg-gray-300 px-3 py-2 rounded text-sm dark:text-black/80">Tailwind css</span>
                         <span className="bg-gray-300 px-3 py-2 rounded text-sm dark:text-black/80">React Js</span>
                     </div>
-                    <a href="https://sivanandham-k.netlify.app/" className="inline-block mt-4 px-4 py-2 bg-blue-600 text-white rounded">Check it</a>
+                    <a href="https://deepak23-git.github.io/Portfolio/" className="inline-block mt-4 px-4 py-2 bg-blue-600 text-white rounded">Check it</a>
                 </div>
                 <div className="relative md:w-3/5">
                     <Image src={assets.portfolio} alt='' className="w-full h-full object-cover" />
